@@ -1,0 +1,29 @@
+# -----------PIMU Tracksum file-------------
+# Columns:     (m)
+#        1-Shower Number
+#        2-Electron Tracksum
+#        3-Electron Sum Delta_z
+#        4-Electron Sum Abs(Delta_z)
+#        5-Positron Tracksum
+#        6-Positron Sum Delta_z
+#        7-Positron Sum Abs(Delta_z)
+#        8-Pi plus Tracksum
+#        9-Pi plus  Sum Delta_z
+#        10-Pi plus Sum Abs(Delta_z)
+#        11-Pi minus Tracksum
+#        12-Pi minus  Sum Delta_z
+#        13-Pi minus Sum Abs(Delta_z)
+#        14-Mu plus Tracksum
+#        15-Mu plus  Sum Delta_z
+#        16-Mu plus Sum Abs(Delta_z)
+#        17-Mu minus Tracksum
+#        18-Mu minus  Sum Delta_z
+#        19-Mu minus Sum Abs(Delta_z)
+#        20-Proton Tracksum
+#        21-Proton Sum Delta_z
+#        22-Proton Sum Abs(Delta_z)
+#        23-Pbar Tracksum
+#        24-Pbar Sum Delta_z
+#        25-Pbar Sum Abs(Delta_z)
+#
+   1  0.25761E+12  0.20175E+12  0.21486E+12  0.14076E+12  0.12551E+12  0.12831E+12  0.22597E+09  0.21941E+09  0.22066E+09  0.21984E+09  0.21292E+09  0.21432E+09  0.21248E+10  0.18721E+10  0.19249E+10  0.21271E+10  0.18595E+10  0.19193E+10  0.33353E+09  0.28971E+09  0.29310E+09  0.14469E+08  0.14014E+08  0.14018E+08

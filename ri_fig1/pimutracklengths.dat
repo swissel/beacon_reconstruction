@@ -1,0 +1,11 @@
+# -----------PIMU Tracksum file-------------
+# Columns:     (m)
+#        1-Shower Number
+#        2-Tracksum
+#        3-Sum Delta_z
+#        4-Sum Abs(Delta_z)
+#        5-Excess track sum (negative-positive)
+#        6-Excess sum Delta_z
+#        7-Excess sum Abs(Delta_z)
+#
+   1  0.50458E+10  0.44677E+10  0.45863E+10 -0.32289E+09 -0.29469E+09 -0.29106E+09
