@@ -1,0 +1,9 @@
+# This is the AIRES dirs file. DO NOT EDIT.
+Aires_DHost='E1-054551.ad.psu.edu'
+Aires_DUserName='avz5228'
+Aires_DTaskName='reconstruction'
+Aires_DRandomfn='__Aires1001_0760'
+Aires_DOutput='/data2/beacon/library_v2/reconstruction/'
+Aires_DGlobal='/data2/beacon/library_v2/reconstruction/'
+Aires_DExport='/data2/beacon/library_v2/reconstruction/'
+Aires_DScratch=
